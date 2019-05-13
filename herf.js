@@ -1,0 +1,1 @@
+window.open("http://egy.best/tv/");    
